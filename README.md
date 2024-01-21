@@ -25,7 +25,7 @@ If you want to run it locally:
 
 1. Clone this repository.
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/salalshahid/Portfolio-384089
 
 2. Run the following command.
 - run ```npm i && npm run dev```
